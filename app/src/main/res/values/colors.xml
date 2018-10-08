@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="window_bg">#fdf9f7</color>
+    <color name="main_color">#654b3b</color>
+    <color name="select_color">#33654b3b</color>
+    <color name="activity_user_list">#654b3b</color>
+    <color name="gray">#d7d7d7</color>
+    <color name="gray3">#616161</color>
+    <color name="line">#f9eee7</color>
+    <color name="login_line">#d0c9c4</color>
+    <color name="line_cart">#efefef</color>
+    <color name="text_hint">#FFA5A4A4</color>
+    <color name="activity_txt">#654b3a</color>
+    <color name="gray_line">#FFF6F6F6</color>
+    <color name="activity_txt1">#66654b3b</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="activity_red">#d64036</color>
+    <color name="darkgray">#4B4B4B</color>
+    <color name="gray_999999">#999999</color>
+    <color name="theme_color">#42A8FC</color>
+    <color name="style_color_accent">@color/activity_red</color>
+    <color name="style_color_primary">@color/white</color>
+    <color name="main_style_color">#FF5D31</color>
+    <!--正文字体颜色-->
+    <color name="black_zw">#717171</color>
+    <color name="lock_status_alpha">#1f000000</color>
+    <color name="item_wrong_bancground">#0180F7</color>
+    <color name="md_material_blue_600">#42a7ff</color>
+    <color name="green_btn_border_color">#3B803B</color>
+
+    <color name="line_color">#c8c8ca</color>
+    <color name="normal_gray">#A5A4A4</color>
+    <!-- 图片选择-->
+    <color name="transparent50">#30000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="picker_common_primary">#f3f3f3</color>
+    <color name="picker_text_40">#282828</color>
+    <color name="picker_text_80">#505050</color>
+    <color name="picker_pager_bg">#CA000000</color>
+
+    <!-- 底部切换-->
+    <color name="red">#ff0000</color>
+    <color name="selector_grey">#DDDDDD</color>
+    <color name="tab_gb">#F3F5F4</color>
+    <color name="tab_normal_color">#515051</color>
+    <color name="tab_selected_color">#D33D3C</color>
+
+
+    <color name="md_btn_selected">#33969696</color>
+    <color name="md_btn_selected_dark">#40CBCBCB</color>
+    <color name="md_divider_black">#10000000</color>
+    <color name="md_divider_white">#10FFFFFF</color>
+    <color name="md_edittext_error">#DD2C00</color>
+
+    <color name="gray1">#dedede</color>
+    <color name="gray1_1">#e7e7e7</color>
+    <color name="gray2">#FFF8F8F8</color>
+    <color name="gray4">#FFEEEEEE</color>
+    <color name="gray5">#636363</color>
+    <color name="gray6">#77000000</color>
+    <color name="gray7">#FF474747</color>
+
+    <color name="theme_green">#45C01A</color>
+    <color name="list_bg_border">#7fACA8A8</color>
+
+    <drawable name="transparent_drawable">@color/transparent</drawable>
+    <color name="yellow">#FFFF00</color>
+    <color name="transparent00">#00000000</color>
+
+    <!--main user -->
+    <color name="title_font_color">#3e3e3e</color>
+    <color name="searchBgColor">#ebebeb</color>
+    <color name="bottomNavigatorTextColor">#666666</color>
+    <color name="half_transparent">#88000000</color>
+    <!--浅黑色-->
+    <color name="small_black">#4b4b4b</color>
+    <color name="gray_cccc">#cccccc</color>//标题背景色
+</resources>
